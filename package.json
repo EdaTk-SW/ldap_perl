@@ -1,0 +1,12 @@
+{
+  "name": "ldap_perl",
+  "version": "1.0.0",
+  "main": "ldap_perl.pl",
+  "scripts": {
+    "test": "ldap_perl.bat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

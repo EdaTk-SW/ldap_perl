@@ -1,0 +1,9 @@
+{
+    "debug.internalConsoleOptions": "neverOpen",
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "debug.javascript.codelens.npmScripts": "never",
+}

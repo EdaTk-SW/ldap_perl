@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# dotenv environment variable files
+.env
+
+# Security Certificates
+*.0
+*.cer
+*.pem
